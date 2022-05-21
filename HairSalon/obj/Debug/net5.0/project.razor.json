@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Stylists/Create.cshtml",
+      "TargetPath": "Views\\Stylists\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Clients/Details.cshtml",
       "TargetPath": "Views\\Clients\\Details.cshtml",
       "FileKind": "mvc"
