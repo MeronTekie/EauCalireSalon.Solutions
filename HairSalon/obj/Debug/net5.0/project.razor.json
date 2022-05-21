@@ -15617,6 +15617,17 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "HairSalon",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
