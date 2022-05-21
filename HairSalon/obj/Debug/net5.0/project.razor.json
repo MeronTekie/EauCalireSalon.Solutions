@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Stylists/Delete.cshtml",
+      "TargetPath": "Views\\Stylists\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Stylists/Create.cshtml",
       "TargetPath": "Views\\Stylists\\Create.cshtml",
       "FileKind": "mvc"
@@ -15639,6 +15644,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Stylists/Edit.cshtml",
+      "TargetPath": "Views\\Stylists\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15661,11 @@
     {
       "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Clients/Delete.cshtml",
       "TargetPath": "Views\\Clients\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/Views/Stylists/Details.cshtml",
+      "TargetPath": "Views\\Stylists\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
