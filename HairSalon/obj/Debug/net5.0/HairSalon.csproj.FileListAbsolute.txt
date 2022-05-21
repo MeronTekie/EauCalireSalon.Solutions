@@ -44,3 +44,7 @@
 /Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Details.cshtml.g.cs
 /Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Edit.cshtml.g.cs
 /Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Index.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Stylists/Create.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Stylists/Delete.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Stylists/Details.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Stylists/Edit.cshtml.g.cs
