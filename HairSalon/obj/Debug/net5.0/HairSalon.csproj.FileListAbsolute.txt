@@ -38,3 +38,9 @@
 /Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.pdb
 /Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.genruntimeconfig.cache
 /Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/ref/HairSalon.dll
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Stylists/Index.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Create.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Delete.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Details.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Edit.cshtml.g.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/Razor/Views/Clients/Index.cshtml.g.cs
