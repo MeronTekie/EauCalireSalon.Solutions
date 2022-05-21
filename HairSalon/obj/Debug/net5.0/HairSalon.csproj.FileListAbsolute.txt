@@ -1,0 +1,6 @@
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.csproj.AssemblyReference.cache
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.AssemblyInfoInputs.cache
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.AssemblyInfo.cs
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.csproj.CoreCompileInputs.cache
+/Users/ramenimo/Desktop/EauClaireHairSalon.Solutions/HairSalon/obj/Debug/net5.0/HairSalon.MvcApplicationPartsAssemblyInfo.cache
